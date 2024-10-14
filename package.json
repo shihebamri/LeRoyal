@@ -1,4 +1,6 @@
 {
+  "engines": {"node": ">=18.18.0"},
+  "packageManager": "npm@9.6.7",
   "name": "royal",
   "private": true,
   "version": "0.0.0",
